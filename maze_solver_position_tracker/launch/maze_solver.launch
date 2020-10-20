@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="maze_solver_position_tracker" type="maze_solver.py" name="Maze_Solver_With_Prediction"  output="screen">
+    </node>
+</launch>
